@@ -47,7 +47,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Vuejs, postgresql, firebase**
+- 🌱 I’m currently learning **Vuejs, React JS , React Native, Laravel , Three js , PHP, firebase**
 
 ###
 
