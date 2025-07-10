@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm rob-vox</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dackdot&label=Profile%20views&color=0e75b6&style=flat" alt="dackdot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rovox&label=Profile%20views&color=0e75b6&style=flat" alt="rovox" /> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAckdot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DAckdot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rovox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rovox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -65,8 +65,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DAckdot/DAckdot/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rovox/rovox/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dackdot&" alt="dackdot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rovox&" alt="rovox" /></p>
