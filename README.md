@@ -1,25 +1,5 @@
 <h1 align="center">👋 Hi, I'm Roberto Vargas (rovox)</h1>
-<h3 align="center">💻 Frontend Developer | Community Builder | Tech Enthusiast</h3>
----
-
-<!-- 🚧 Sección llamativa para el futuro portafolio -->
-<div align="center">
-
-  ## 🌈✨🚀 Coming Soon: **My Portfolio** 🚀✨🌈
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF61F6&width=600&lines=🔥+Stay+tuned+for+my+personal+portfolio!;🚀+Showcasing+projects,+designs,+and+collabs;💡+Frontend+Dev+%7C+Community+Manager+%7C+Open+Source" alt="Typing SVG" />
-  
-</div>
-
----
----
-
-<div align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=rovox&label=Profile%20views&color=0e75b6&style=flat" alt="rovox" />
-</div>
-
----
+<h3 align="center">💻 Frontend Developer | 🙋‍♂️ Community Builder | 🤖 Tech Enthusiast</h3>
 
 ### 🚀 About Me  
 - 🎓 Student at **Universidad Mayor de San Simón (UMSS)** – Computer Science Engineering  
@@ -29,10 +9,20 @@
   - [Hacklab Brickheads Cochabamba](https://github.com/hacklab-brickheads-cochabamba) 💡  
   - [SCESI - Sociedad Científica de Estudiantes de Sistemas e Informática](https://github.com/scesi) 🚀  
 - 🐧 Passionate about **Linux, Open Source and building strong developer communities**  
+---
+
+<!-- 🚧 Sección llamativa para el futuro portafolio -->
+<div align="center">
+
+  ## 🌈✨🚀 Coming Soon: **My Portfolio** 🚀✨🌈
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF61F6&width=900&lines=🔥+Stay+tuned+for+my+personal+portfolio!;🚀+Showcasing+projects,+designs,+and+collabs;💡+Frontend+Dev+%7C+Community+Manager+%7C+Open+Source" alt="Typing SVG" />
+  
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats  <img src="https://komarev.com/ghpvc/?username=rovox&label=Profile%20views&color=0e75b6&style=flat" alt="rovox" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rovox&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rovox&layout=compact&langs_count=6&theme=tokyonight" height="160" alt="languages graph" />
@@ -67,7 +57,7 @@
 
 ### 🔥 Streak Stats  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rovox&theme=tokyonight-duo&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=rovox&theme=tokyonight&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="180" alt="streak graph" />
 </div>
 
 ---
@@ -86,5 +76,5 @@
 
 <!-- Extra gif divertido para animar -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" alt="coding gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1vaWF4N2F4cDl3dmJpaDJnazBiZmg4OWszdGR1a2Z1bGg5dXFudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6SPT4vjEWBPjECMXwr/giphy.gif" height="400" alt="coding gif" />
 </div>
